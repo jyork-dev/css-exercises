@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.clickable,
+.very-clickable {
+    font-size: 28px;
+    font-family: 'Helvetica' 'Times New Roman' 'sans-serif';
+}
+
+.clickable {
+    color: white;
+    background-color: black;
+}
+
+.very-clickable {
+    background-color: yellow;
+}
